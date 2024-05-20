@@ -153,7 +153,7 @@ Discarded input sections
                 0x00000000       0x60 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/sema4.c.obj
  .debug_ranges  0x00000000       0x50 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/sema4.c.obj
  .debug_line    0x00000000      0x468 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/sema4.c.obj
- .debug_str     0x00000000      0x8f9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/sema4.c.obj
+ .debug_str     0x00000000      0x92a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/sema4.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/sema4.c.obj
  .debug_frame   0x00000000       0xe4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/sema4.c.obj
  .ARM.attributes
@@ -193,7 +193,7 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/config/config.c.obj
  .debug_ranges  0x00000000       0x10 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/config/config.c.obj
  .debug_line    0x00000000       0x9d CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/config/config.c.obj
- .debug_str     0x00000000      0x7a2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/config/config.c.obj
+ .debug_str     0x00000000      0x7d3 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/config/config.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/config/config.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/config/config.c.obj
  .ARM.attributes
@@ -284,7 +284,7 @@ Discarded input sections
                 0x00000000       0x28 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtio.c.obj
  .debug_ranges  0x00000000       0x18 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtio.c.obj
  .debug_line    0x00000000      0x1c9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtio.c.obj
- .debug_str     0x00000000      0xabc CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtio.c.obj
+ .debug_str     0x00000000      0xaed CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtio.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtio.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtio.c.obj
  .ARM.attributes
@@ -372,7 +372,7 @@ Discarded input sections
                 0x00000000       0x30 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc.c.obj
  .debug_ranges  0x00000000       0x20 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc.c.obj
  .debug_line    0x00000000      0x2a3 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc.c.obj
- .debug_str     0x00000000      0x7e3 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc.c.obj
+ .debug_str     0x00000000      0x814 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc.c.obj
  .debug_frame   0x00000000       0x58 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc.c.obj
  .ARM.attributes
@@ -409,7 +409,7 @@ Discarded input sections
                 0x00000000       0x58 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc_semaphore.c.obj
  .debug_ranges  0x00000000       0x48 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc_semaphore.c.obj
  .debug_line    0x00000000      0x438 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc_semaphore.c.obj
- .debug_str     0x00000000      0x88c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc_semaphore.c.obj
+ .debug_str     0x00000000      0x8bd CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc_semaphore.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc_semaphore.c.obj
  .debug_frame   0x00000000       0xe0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/rdc_semaphore.c.obj
  .ARM.attributes
@@ -481,7 +481,7 @@ Discarded input sections
                 0x00000000       0x30 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/wdog_imx.c.obj
  .debug_ranges  0x00000000       0x20 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/wdog_imx.c.obj
  .debug_line    0x00000000      0x291 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/wdog_imx.c.obj
- .debug_str     0x00000000      0x752 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/wdog_imx.c.obj
+ .debug_str     0x00000000      0x783 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/wdog_imx.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/wdog_imx.c.obj
  .debug_frame   0x00000000       0x40 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/wdog_imx.c.obj
  .ARM.attributes
@@ -530,7 +530,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/croutine.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/croutine.c.obj
- .debug_str     0x00000000      0x6e1 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/croutine.c.obj
+ .debug_str     0x00000000      0x712 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/croutine.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/croutine.c.obj
  .ARM.attributes
                 0x00000000       0x39 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/croutine.c.obj
@@ -564,7 +564,7 @@ Discarded input sections
                 0x00000000       0x68 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/event_groups.c.obj
  .debug_ranges  0x00000000       0x70 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/event_groups.c.obj
  .debug_line    0x00000000      0x4a1 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/event_groups.c.obj
- .debug_str     0x00000000      0xb76 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/event_groups.c.obj
+ .debug_str     0x00000000      0xba7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/event_groups.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/event_groups.c.obj
  .debug_frame   0x00000000      0x110 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/event_groups.c.obj
  .ARM.attributes
@@ -646,7 +646,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/timers.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/timers.c.obj
- .debug_str     0x00000000      0x6df CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/timers.c.obj
+ .debug_str     0x00000000      0x710 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/timers.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/timers.c.obj
  .ARM.attributes
                 0x00000000       0x39 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/timers.c.obj
@@ -692,7 +692,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/watchdog.c.obj
  .debug_line    0x00000000      0x143 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/watchdog.c.obj
- .debug_str     0x00000000      0x71d CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/watchdog.c.obj
+ .debug_str     0x00000000      0x74e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/watchdog.c.obj
  .comment       0x00000000       0x71 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/watchdog.c.obj
  .ARM.attributes
                 0x00000000       0x39 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/watchdog.c.obj
@@ -1043,7 +1043,7 @@ LOAD /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../li
                 0x00000000                __isr_vector
                 0x00000240                . = ALIGN (0x4)
 
-.text           0x1fff8000     0x7b80
+.text           0x1fff8000     0x7bd0
                 0x1fff8000                . = ALIGN (0x4)
  *(.text)
  .text          0x1fff8000       0x5c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
@@ -1800,452 +1800,451 @@ LOAD /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../li
                 0x1fffc350       0x7c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/pin_mux.c.obj
                 0x1fffc350                configure_uart_pins
  .text.hardware_init
-                0x1fffc3cc      0x1f0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
+                0x1fffc3cc      0x1fc CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
                 0x1fffc3cc                hardware_init
- .text.main     0x1fffc5bc       0xe4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
-                0x1fffc5bc                main
+ .text.main     0x1fffc5c8       0xe4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
+                0x1fffc5c8                main
  .text.MU_M4_Handler
-                0x1fffc6a0        0x8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
-                0x1fffc6a0                MU_M4_Handler
+                0x1fffc6ac        0x8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
+                0x1fffc6ac                MU_M4_Handler
  .text.Hw_Timer_Init
-                0x1fffc6a8       0xf0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
-                0x1fffc6a8                Hw_Timer_Init
+                0x1fffc6b4       0xf0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
+                0x1fffc6b4                Hw_Timer_Init
  .text.GPT3_Handler
-                0x1fffc798        0xc CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
-                0x1fffc798                GPT3_Handler
+                0x1fffc7a4        0xc CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
+                0x1fffc7a4                GPT3_Handler
  .text.i2s_init
-                0x1fffc7a4       0xb0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
-                0x1fffc7a4                i2s_init
+                0x1fffc7b0       0xb4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+                0x1fffc7b0                i2s_init
  .text.init_gpio
-                0x1fffc854       0xd8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
-                0x1fffc854                init_gpio
+                0x1fffc864       0xd8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+                0x1fffc864                init_gpio
  .text.fill_sai
-                0x1fffc92c       0x40 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
-                0x1fffc92c                fill_sai
+                0x1fffc93c       0x40 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+                0x1fffc93c                fill_sai
  .text.task_ledToggle
-                0x1fffc96c       0x18 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
-                0x1fffc96c                task_ledToggle
+                0x1fffc97c       0x18 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+                0x1fffc97c                task_ledToggle
  .text.I2C_MasterSendDataPolling
-                0x1fffc984       0x94 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                0x1fffc994       0x94 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
  .text.I2C_MasterReceiveDataPolling
-                0x1fffca18      0x168 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                0x1fffca28      0x168 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
  .text.init_tca6424
-                0x1fffcb80      0x11c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
-                0x1fffcb80                init_tca6424
+                0x1fffcb90      0x11c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                0x1fffcb90                init_tca6424
  .text.read_rotary_switch
-                0x1fffcc9c       0xb0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
-                0x1fffcc9c                read_rotary_switch
+                0x1fffccac       0xb0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                0x1fffccac                read_rotary_switch
  .text.read_switches
-                0x1fffcd4c       0xa4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
-                0x1fffcd4c                read_switches
+                0x1fffcd5c       0xa4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                0x1fffcd5c                read_switches
  .text.task_button_card_process
-                0x1fffcdf0       0x14 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
-                0x1fffcdf0                task_button_card_process
- .text.setPin   0x1fffce04       0xa8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
-                0x1fffce04                setPin
+                0x1fffce00       0x14 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                0x1fffce00                task_button_card_process
+ .text.setPin   0x1fffce14       0xa8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                0x1fffce14                setPin
  .text.pointPreviousPlace
-                0x1fffceac       0x1c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffceac                pointPreviousPlace
+                0x1fffcebc       0x1c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffcebc                pointPreviousPlace
  .text.pointNextPlace
-                0x1fffcec8       0x1c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffcec8                pointNextPlace
+                0x1fffced8       0x1c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffced8                pointNextPlace
  .text.skb_comm_semaphore_init
-                0x1fffcee4       0x5c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffcee4                skb_comm_semaphore_init
+                0x1fffcef4       0x5c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffcef4                skb_comm_semaphore_init
  .text.get_packet_from_a7_rx_buffer
-                0x1fffcf40      0x10c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffcf40                get_packet_from_a7_rx_buffer
+                0x1fffcf50      0x10c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffcf50                get_packet_from_a7_rx_buffer
  .text.task_fill_skb_rx_buf
-                0x1fffd04c       0x64 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffd04c                task_fill_skb_rx_buf
+                0x1fffd05c       0x64 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffd05c                task_fill_skb_rx_buf
  .text.decode_binary
-                0x1fffd0b0       0x28 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffd0b0                decode_binary
+                0x1fffd0c0       0x28 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffd0c0                decode_binary
  .text.process_skb_packet
-                0x1fffd0d8       0x90 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffd0d8                process_skb_packet
+                0x1fffd0e8       0x90 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffd0e8                process_skb_packet
  .text.task_parse_skb_rx_buf
-                0x1fffd168      0x77c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffd168                task_parse_skb_rx_buf
+                0x1fffd178      0x77c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffd178                task_parse_skb_rx_buf
  .text.process_a7_packet
-                0x1fffd8e4       0x90 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffd8e4                process_a7_packet
+                0x1fffd8f4       0x90 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffd8f4                process_a7_packet
  .text.task_send_data_to_skb
-                0x1fffd974      0x2d8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                0x1fffd974                task_send_data_to_skb
+                0x1fffd984      0x2d8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1fffd984                task_send_data_to_skb
  .text.__assert_func
-                0x1fffdc4c       0x38 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-assert.o)
-                0x1fffdc4c                __assert_func
- .text.exit     0x1fffdc84       0x28 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
-                0x1fffdc84                exit
- .text.fprintf  0x1fffdcac       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fprintf.o)
-                0x1fffdcac                fprintf
-                0x1fffdcac                fiprintf
+                0x1fffdc5c       0x38 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-assert.o)
+                0x1fffdc5c                __assert_func
+ .text.exit     0x1fffdc94       0x28 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+                0x1fffdc94                exit
+ .text.fprintf  0x1fffdcbc       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fprintf.o)
+                0x1fffdcbc                fprintf
+                0x1fffdcbc                fiprintf
  .text.__libc_init_array
-                0x1fffdcd0       0x4c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
-                0x1fffdcd0                __libc_init_array
- .text.memcpy   0x1fffdd1c       0x16 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
-                0x1fffdd1c                memcpy
- .text.memset   0x1fffdd32       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
-                0x1fffdd32                memset
+                0x1fffdce0       0x4c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+                0x1fffdce0                __libc_init_array
+ .text.memcpy   0x1fffdd2c       0x16 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+                0x1fffdd2c                memcpy
+ .text.memset   0x1fffdd42       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+                0x1fffdd42                memset
  .text.__sfputc_r
-                0x1fffdd42       0x2c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x1fffdd52       0x2c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
  .text.__sfputs_r
-                0x1fffdd6e       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
-                0x1fffdd6e                __sfputs_r
- *fill*         0x1fffdd92        0x2 
+                0x1fffdd7e       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x1fffdd7e                __sfputs_r
+ *fill*         0x1fffdda2        0x2 
  .text._vfprintf_r
-                0x1fffdd94      0x210 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
-                0x1fffdd94                _vfiprintf_r
-                0x1fffdd94                _vfprintf_r
+                0x1fffdda4      0x210 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x1fffdda4                _vfiprintf_r
+                0x1fffdda4                _vfprintf_r
  .text._printf_common
-                0x1fffdfa4       0xea /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x1fffdfa4                _printf_common
- *fill*         0x1fffe08e        0x2 
+                0x1fffdfb4       0xea /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x1fffdfb4                _printf_common
+ *fill*         0x1fffe09e        0x2 
  .text._printf_i
-                0x1fffe090      0x240 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x1fffe090                _printf_i
- .text.strlen   0x1fffe2d0       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strlen.o)
-                0x1fffe2d0                strlen
- .text.strncmp  0x1fffe2e0       0x34 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
-                0x1fffe2e0                strncmp
- .text.strncpy  0x1fffe314       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncpy.o)
-                0x1fffe314                strncpy
+                0x1fffe0a0      0x240 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x1fffe0a0                _printf_i
+ .text.strlen   0x1fffe2e0       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strlen.o)
+                0x1fffe2e0                strlen
+ .text.strncmp  0x1fffe2f0       0x34 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+                0x1fffe2f0                strncmp
+ .text.strncpy  0x1fffe324       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncpy.o)
+                0x1fffe324                strncpy
  .text.__swbuf_r
-                0x1fffe338       0xa8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-wbuf.o)
-                0x1fffe338                __swbuf_r
+                0x1fffe348       0xa8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-wbuf.o)
+                0x1fffe348                __swbuf_r
  .text.__swsetup_r
-                0x1fffe3e0       0xd8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-wsetup.o)
-                0x1fffe3e0                __swsetup_r
- .text.abort    0x1fffe4b8        0xe /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-abort.o)
-                0x1fffe4b8                abort
+                0x1fffe3f0       0xd8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-wsetup.o)
+                0x1fffe3f0                __swsetup_r
+ .text.abort    0x1fffe4c8        0xe /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-abort.o)
+                0x1fffe4c8                abort
  .text.__sflush_r
-                0x1fffe4c6      0x108 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fflush.o)
-                0x1fffe4c6                __sflush_r
- *fill*         0x1fffe5ce        0x2 
+                0x1fffe4d6      0x108 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fflush.o)
+                0x1fffe4d6                __sflush_r
+ *fill*         0x1fffe5de        0x2 
  .text._fflush_r
-                0x1fffe5d0       0x54 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fflush.o)
-                0x1fffe5d0                _fflush_r
+                0x1fffe5e0       0x54 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fflush.o)
+                0x1fffe5e0                _fflush_r
  .text._cleanup_r
-                0x1fffe624        0xc /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
-                0x1fffe624                _cleanup_r
+                0x1fffe634        0xc /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1fffe634                _cleanup_r
  .text.std.isra.0
-                0x1fffe630       0x48 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1fffe640       0x48 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
  .text.__sfmoreglue
-                0x1fffe678       0x2c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
-                0x1fffe678                __sfmoreglue
- .text.__sinit  0x1fffe6a4       0x60 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
-                0x1fffe6a4                __sinit
- .text.__sfp    0x1fffe704       0x74 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
-                0x1fffe704                __sfp
+                0x1fffe688       0x2c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1fffe688                __sfmoreglue
+ .text.__sinit  0x1fffe6b4       0x60 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1fffe6b4                __sinit
+ .text.__sfp    0x1fffe714       0x74 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1fffe714                __sfp
  .text._fwalk_reent
-                0x1fffe778       0x3c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fwalk.o)
-                0x1fffe778                _fwalk_reent
+                0x1fffe788       0x3c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fwalk.o)
+                0x1fffe788                _fwalk_reent
  .text.__smakebuf_r
-                0x1fffe7b4       0x9c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-makebuf.o)
-                0x1fffe7b4                __smakebuf_r
- .text.memchr   0x1fffe850       0x1e /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memchr.o)
-                0x1fffe850                memchr
- *fill*         0x1fffe86e        0x2 
- .text._free_r  0x1fffe870       0x88 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
-                0x1fffe870                _free_r
+                0x1fffe7c4       0x9c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-makebuf.o)
+                0x1fffe7c4                __smakebuf_r
+ .text.memchr   0x1fffe860       0x1e /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memchr.o)
+                0x1fffe860                memchr
+ *fill*         0x1fffe87e        0x2 
+ .text._free_r  0x1fffe880       0x88 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+                0x1fffe880                _free_r
  .text._malloc_r
-                0x1fffe8f8       0xac /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
-                0x1fffe8f8                _malloc_r
- .text._sbrk_r  0x1fffe9a4       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
-                0x1fffe9a4                _sbrk_r
+                0x1fffe908       0xac /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+                0x1fffe908                _malloc_r
+ .text._sbrk_r  0x1fffe9b4       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+                0x1fffe9b4                _sbrk_r
  .text._raise_r
-                0x1fffe9c4       0x50 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signal.o)
-                0x1fffe9c4                _raise_r
- .text.raise    0x1fffea14       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signal.o)
-                0x1fffea14                raise
- .text._kill_r  0x1fffea24       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signalr.o)
-                0x1fffea24                _kill_r
+                0x1fffe9d4       0x50 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signal.o)
+                0x1fffe9d4                _raise_r
+ .text.raise    0x1fffea24       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signal.o)
+                0x1fffea24                raise
+ .text._kill_r  0x1fffea34       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signalr.o)
+                0x1fffea34                _kill_r
  .text._getpid_r
-                0x1fffea48        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signalr.o)
-                0x1fffea48                _getpid_r
- .text.__sread  0x1fffea4c       0x22 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
-                0x1fffea4c                __sread
+                0x1fffea58        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-signalr.o)
+                0x1fffea58                _getpid_r
+ .text.__sread  0x1fffea5c       0x22 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
+                0x1fffea5c                __sread
  .text.__swrite
-                0x1fffea6e       0x38 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
-                0x1fffea6e                __swrite
- .text.__sseek  0x1fffeaa6       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
-                0x1fffeaa6                __sseek
+                0x1fffea7e       0x38 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
+                0x1fffea7e                __swrite
+ .text.__sseek  0x1fffeab6       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
+                0x1fffeab6                __sseek
  .text.__sclose
-                0x1fffeaca        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
-                0x1fffeaca                __sclose
- *fill*         0x1fffead2        0x2 
+                0x1fffeada        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-stdio.o)
+                0x1fffeada                __sclose
+ *fill*         0x1fffeae2        0x2 
  .text._write_r
-                0x1fffead4       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-writer.o)
-                0x1fffead4                _write_r
+                0x1fffeae4       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-writer.o)
+                0x1fffeae4                _write_r
  .text._close_r
-                0x1fffeaf8       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-closer.o)
-                0x1fffeaf8                _close_r
+                0x1fffeb08       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-closer.o)
+                0x1fffeb08                _close_r
  .text._fstat_r
-                0x1fffeb18       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fstatr.o)
-                0x1fffeb18                _fstat_r
+                0x1fffeb28       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fstatr.o)
+                0x1fffeb28                _fstat_r
  .text._isatty_r
-                0x1fffeb3c       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-isattyr.o)
-                0x1fffeb3c                _isatty_r
+                0x1fffeb4c       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-isattyr.o)
+                0x1fffeb4c                _isatty_r
  .text._lseek_r
-                0x1fffeb5c       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-lseekr.o)
-                0x1fffeb5c                _lseek_r
- .text._read_r  0x1fffeb80       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-readr.o)
-                0x1fffeb80                _read_r
- .text._close   0x1fffeba4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
-                0x1fffeba4                _close
- .text._fstat   0x1fffebb4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
-                0x1fffebb4                _fstat
- .text._getpid  0x1fffebc4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(getpid.o)
-                0x1fffebc4                _getpid
- .text._isatty  0x1fffebd4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
-                0x1fffebd4                _isatty
- .text._kill    0x1fffebe4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(kill.o)
-                0x1fffebe4                _kill
- .text._lseek   0x1fffebf4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
-                0x1fffebf4                _lseek
- .text._sbrk    0x1fffec04       0x1c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
-                0x1fffec04                _sbrk
- .text._exit    0x1fffec20        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
-                0x1fffec20                _exit
+                0x1fffeb6c       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-lseekr.o)
+                0x1fffeb6c                _lseek_r
+ .text._read_r  0x1fffeb90       0x24 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-readr.o)
+                0x1fffeb90                _read_r
+ .text._close   0x1fffebb4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+                0x1fffebb4                _close
+ .text._fstat   0x1fffebc4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+                0x1fffebc4                _fstat
+ .text._getpid  0x1fffebd4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(getpid.o)
+                0x1fffebd4                _getpid
+ .text._isatty  0x1fffebe4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+                0x1fffebe4                _isatty
+ .text._kill    0x1fffebf4       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(kill.o)
+                0x1fffebf4                _kill
+ .text._lseek   0x1fffec04       0x10 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+                0x1fffec04                _lseek
+ .text._sbrk    0x1fffec14       0x1c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+                0x1fffec14                _sbrk
+ .text._exit    0x1fffec30        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                0x1fffec30                _exit
  *(.rodata)
- .rodata        0x1fffec24        0x6 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
- *fill*         0x1fffec2a        0x2 
- .rodata        0x1fffec2c        0x7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+ .rodata        0x1fffec34        0x6 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
+ *fill*         0x1fffec3a        0x2 
+ .rodata        0x1fffec3c        0x7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
  *(.rodata*)
- *fill*         0x1fffec33        0x1 
+ *fill*         0x1fffec43        0x1 
  .rodata.__func__.5884
-                0x1fffec34        0x8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
+                0x1fffec44        0x8 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
  .rodata.__func__.5851
-                0x1fffec3c       0x11 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
- *fill*         0x1fffec4d        0x3 
+                0x1fffec4c       0x11 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
+ *fill*         0x1fffec5d        0x3 
  .rodata.str1.4
-                0x1fffec50       0xd2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
- *fill*         0x1fffed22        0x2 
+                0x1fffec60       0xd2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
+ *fill*         0x1fffed32        0x2 
  .rodata.__func__.5865
-                0x1fffed24       0x15 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
- *fill*         0x1fffed39        0x3 
+                0x1fffed34       0x15 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
+ *fill*         0x1fffed49        0x3 
  .rodata.__func__.5762
-                0x1fffed3c        0xb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
- *fill*         0x1fffed47        0x1 
+                0x1fffed4c        0xb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
+ *fill*         0x1fffed57        0x1 
  .rodata.__func__.5759
-                0x1fffed48        0x9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
- *fill*         0x1fffed51        0x3 
+                0x1fffed58        0x9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
+ *fill*         0x1fffed61        0x3 
  .rodata.__func__.9329
-                0x1fffed54       0x1a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
- *fill*         0x1fffed6e        0x2 
+                0x1fffed64       0x1a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
+ *fill*         0x1fffed7e        0x2 
  .rodata.str1.4
-                0x1fffed70      0x111 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
+                0x1fffed80      0x111 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
                                 0x115 (size before relaxing)
- *fill*         0x1fffee81        0x3 
+ *fill*         0x1fffee91        0x3 
  .rodata.__func__.9350
-                0x1fffee84       0x1f CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
- *fill*         0x1fffeea3        0x1 
+                0x1fffee94       0x1f CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
+ *fill*         0x1fffeeb3        0x1 
  .rodata.__func__.9337
-                0x1fffeea4       0x1b CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
- *fill*         0x1fffeebf        0x1 
+                0x1fffeeb4       0x1b CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
+ *fill*         0x1fffeecf        0x1 
  .rodata.__func__.9297
-                0x1fffeec0        0xa CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
- *fill*         0x1fffeeca        0x2 
- .rodata.__func__.9301
-                0x1fffeecc        0xe CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
+                0x1fffeed0        0xa CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
  *fill*         0x1fffeeda        0x2 
+ .rodata.__func__.9301
+                0x1fffeedc        0xe CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
+ *fill*         0x1fffeeea        0x2 
  .rodata.__func__.9346
-                0x1fffeedc       0x1e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
- *fill*         0x1fffeefa        0x2 
- .rodata.str1.4
-                0x1fffeefc        0xe CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_core.c.obj
+                0x1fffeeec       0x1e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
  *fill*         0x1fffef0a        0x2 
+ .rodata.str1.4
+                0x1fffef0c        0xe CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_core.c.obj
+ *fill*         0x1fffef1a        0x2 
  .rodata.__func__.5960
-                0x1fffef0c       0x1b CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
- *fill*         0x1fffef27        0x1 
+                0x1fffef1c       0x1b CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
+ *fill*         0x1fffef37        0x1 
  .rodata.str1.4
-                0x1fffef28       0xad CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
- *fill*         0x1fffefd5        0x3 
+                0x1fffef38       0xad CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
+ *fill*         0x1fffefe5        0x3 
  .rodata.__func__.5964
-                0x1fffefd8       0x1b CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
- *fill*         0x1fffeff3        0x1 
+                0x1fffefe8       0x1b CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
+ *fill*         0x1ffff003        0x1 
  .rodata.__func__.5973
-                0x1fffeff4       0x13 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
- *fill*         0x1ffff007        0x1 
+                0x1ffff004       0x13 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
+ *fill*         0x1ffff017        0x1 
  .rodata.__func__.8052
-                0x1ffff008       0x13 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
- *fill*         0x1ffff01b        0x1 
- .rodata.__func__.8060
-                0x1ffff01c        0xf CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
+                0x1ffff018       0x13 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
  *fill*         0x1ffff02b        0x1 
+ .rodata.__func__.8060
+                0x1ffff02c        0xf CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
+ *fill*         0x1ffff03b        0x1 
  .rodata.str1.4
-                0x1ffff02c       0x78 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
-                                 0x8f (size before relaxing)
+                0x1ffff03c       0xa0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
  .rodata.__func__.7883
-                0x1ffff0a4        0xb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
- *fill*         0x1ffff0af        0x1 
+                0x1ffff0dc        0xb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
+ *fill*         0x1ffff0e7        0x1 
  .rodata.__func__.7893
-                0x1ffff0b0       0x11 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
- *fill*         0x1ffff0c1        0x3 
+                0x1ffff0e8       0x11 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
+ *fill*         0x1ffff0f9        0x3 
  .rodata.str1.4
-                0x1ffff0c4       0x87 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
- *fill*         0x1ffff14b        0x1 
+                0x1ffff0fc       0x87 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
+ *fill*         0x1ffff183        0x1 
  .rodata.str1.4
-                0x1ffff14c      0x146 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
- *fill*         0x1ffff292        0x2 
+                0x1ffff184      0x146 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
+ *fill*         0x1ffff2ca        0x2 
  .rodata.__func__.8008
-                0x1ffff294        0xa CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
- *fill*         0x1ffff29e        0x2 
+                0x1ffff2cc        0xa CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
+ *fill*         0x1ffff2d6        0x2 
  .rodata.__func__.8095
-                0x1ffff2a0       0x12 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
- *fill*         0x1ffff2b2        0x2 
+                0x1ffff2d8       0x12 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
+ *fill*         0x1ffff2ea        0x2 
  .rodata.__func__.7913
-                0x1ffff2b4       0x13 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
- *fill*         0x1ffff2c7        0x1 
+                0x1ffff2ec       0x13 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
+ *fill*         0x1ffff2ff        0x1 
  .rodata.str1.4
-                0x1ffff2c8       0x70 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
+                0x1ffff300       0x70 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
                                  0x7c (size before relaxing)
  .rodata.__func__.7908
-                0x1ffff338        0x9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
- *fill*         0x1ffff341        0x3 
+                0x1ffff370        0x9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
+ *fill*         0x1ffff379        0x3 
  .rodata.__func__.7837
-                0x1ffff344       0x14 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpio_imx.c.obj
+                0x1ffff37c       0x14 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpio_imx.c.obj
  .rodata.str1.4
-                0x1ffff358       0x61 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpio_imx.c.obj
- *fill*         0x1ffff3b9        0x3 
+                0x1ffff390       0x61 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpio_imx.c.obj
+ *fill*         0x1ffff3f1        0x3 
  .rodata.i2cClkDivTab
-                0x1ffff3bc      0x190 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
+                0x1ffff3f4      0x190 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
  .rodata.__func__.7828
-                0x1ffff54c        0x9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
- *fill*         0x1ffff555        0x3 
+                0x1ffff584        0x9 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
+ *fill*         0x1ffff58d        0x3 
  .rodata.__func__.7788
-                0x1ffff558       0x14 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
+                0x1ffff590       0x14 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
  .rodata.__func__.7839
-                0x1ffff56c       0x10 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
+                0x1ffff5a4       0x10 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
  .rodata.str1.4
-                0x1ffff57c      0x12c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
+                0x1ffff5b4      0x12c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
                                 0x138 (size before relaxing)
  .rodata.str1.4
-                0x1ffff6a8        0x5 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/tasks.c.obj
- *fill*         0x1ffff6ad        0x3 
+                0x1ffff6e0        0x5 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/tasks.c.obj
+ *fill*         0x1ffff6e5        0x3 
  .rodata.str1.4
-                0x1ffff6b0       0x57 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/board.c.obj
- *fill*         0x1ffff707        0x1 
+                0x1ffff6e8       0x6f CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/board.c.obj
+ *fill*         0x1ffff757        0x1 
  .rodata.str1.4
-                0x1ffff708       0xa4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/gpio_pins.c.obj
+                0x1ffff758       0xa4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/gpio_pins.c.obj
  .rodata.str1.4
-                0x1ffff7ac      0x14d CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/pin_mux.c.obj
- *fill*         0x1ffff8f9        0x3 
+                0x1ffff7fc      0x14d CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/pin_mux.c.obj
+ *fill*         0x1ffff949        0x3 
  .rodata.str1.4
-                0x1ffff8fc       0x1e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
-                                 0x76 (size before relaxing)
- *fill*         0x1ffff91a        0x2 
+                0x1ffff94c       0x1e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
+                                 0x8e (size before relaxing)
+ *fill*         0x1ffff96a        0x2 
  .rodata.str1.4
-                0x1ffff91c       0x5a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
- *fill*         0x1ffff976        0x2 
+                0x1ffff96c       0x5a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
+ *fill*         0x1ffff9c6        0x2 
  .rodata.str1.4
-                0x1ffff978        0x6 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
-                                 0x5f (size before relaxing)
- *fill*         0x1ffff97e        0x2 
+                0x1ffff9c8        0x6 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
+                                 0x77 (size before relaxing)
+ *fill*         0x1ffff9ce        0x2 
  .rodata.str1.4
-                0x1ffff980       0xdb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+                0x1ffff9d0       0xdb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
                                  0xe5 (size before relaxing)
- *fill*         0x1ffffa5b        0x1 
+ *fill*         0x1ffffaab        0x1 
  .rodata.str1.4
-                0x1ffffa5c       0x34 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                0x1ffffaac       0x34 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
                                  0x33 (size before relaxing)
  .rodata.str1.1
-                0x1ffffa90       0x3c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-assert.o)
+                0x1ffffae0       0x3c /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-assert.o)
                                  0x3d (size before relaxing)
  .rodata.str1.1
-                0x1ffffacc        0x2 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
- *fill*         0x1fffface        0x2 
+                0x1ffffb1c        0x2 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ *fill*         0x1ffffb1e        0x2 
  .rodata._global_impure_ptr
-                0x1ffffad0        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
-                0x1ffffad0                _global_impure_ptr
+                0x1ffffb20        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                0x1ffffb20                _global_impure_ptr
  .rodata.str1.1
-                0x1ffffad4       0x11 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x1ffffb24       0x11 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf.o)
  .rodata.str1.1
-                0x1ffffae5       0x22 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
- *fill*         0x1ffffb07        0x1 
+                0x1ffffb35       0x22 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x1ffffb57        0x1 
  .rodata.__sf_fake_stdin
-                0x1ffffb08       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
-                0x1ffffb08                __sf_fake_stdin
+                0x1ffffb58       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1ffffb58                __sf_fake_stdin
  .rodata.__sf_fake_stdout
-                0x1ffffb28       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
-                0x1ffffb28                __sf_fake_stdout
+                0x1ffffb78       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1ffffb78                __sf_fake_stdout
  .rodata.__sf_fake_stderr
-                0x1ffffb48       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
-                0x1ffffb48                __sf_fake_stderr
+                0x1ffffb98       0x20 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-findfp.o)
+                0x1ffffb98                __sf_fake_stderr
  *(.glue_7)
  .glue_7        0x00000000        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x00000000        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x1ffffb68        0x0 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x1ffffbb8        0x0 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
  *(.init)
- .init          0x1ffffb68        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
-                0x1ffffb68                _init
- .init          0x1ffffb6c        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .init          0x1ffffbb8        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x1ffffbb8                _init
+ .init          0x1ffffbbc        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
  *(.fini)
- .fini          0x1ffffb74        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
-                0x1ffffb74                _fini
- .fini          0x1ffffb78        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
-                0x1ffffb80                . = ALIGN (0x4)
+ .fini          0x1ffffbc4        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x1ffffbc4                _fini
+ .fini          0x1ffffbc8        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+                0x1ffffbd0                . = ALIGN (0x4)
 
-.vfp11_veneer   0x1ffffb80        0x0
+.vfp11_veneer   0x1ffffbd0        0x0
  .vfp11_veneer  0x00000000        0x0 linker stubs
 
-.v4_bx          0x1ffffb80        0x0
+.v4_bx          0x1ffffbd0        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.iplt           0x1ffffb80        0x0
+.iplt           0x1ffffbd0        0x0
  .iplt          0x00000000        0x0 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x1ffffb80        0x8
-                0x1ffffb80                __exidx_start = .
+.ARM            0x1ffffbd0        0x8
+                0x1ffffbd0                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x1ffffb80        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
-                0x1ffffb88                __exidx_end = .
+ .ARM.exidx     0x1ffffbd0        0x8 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x1ffffbd8                __exidx_end = .
 
-.rel.dyn        0x1ffffb88        0x0
+.rel.dyn        0x1ffffbd8        0x0
  .rel.iplt      0x00000000        0x0 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
 
-.ctors          0x1ffffb88        0x0
-                0x1ffffb88                __CTOR_LIST__ = .
+.ctors          0x1ffffbd8        0x0
+                0x1ffffbd8                __CTOR_LIST__ = .
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
  *(SORT(.ctors.*))
  *(.ctors)
-                0x1ffffb88                __CTOR_END__ = .
+                0x1ffffbd8                __CTOR_END__ = .
 
-.dtors          0x1ffffb88        0x0
-                0x1ffffb88                __DTOR_LIST__ = .
+.dtors          0x1ffffbd8        0x0
+                0x1ffffbd8                __DTOR_LIST__ = .
  *crtbegin.o(.dtors)
  *crtbegin?.o(.dtors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
  *(SORT(.dtors.*))
  *(.dtors)
-                0x1ffffb88                __DTOR_END__ = .
+                0x1ffffbd8                __DTOR_END__ = .
 
-.preinit_array  0x1ffffb88        0x0
-                0x1ffffb88                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x1ffffbd8        0x0
+                0x1ffffbd8                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x1ffffb88                PROVIDE (__preinit_array_end, .)
+                0x1ffffbd8                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x1ffffb88        0x4
-                0x1ffffb88                PROVIDE (__init_array_start, .)
+.init_array     0x1ffffbd8        0x4
+                0x1ffffbd8                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  *(.init_array*)
- .init_array    0x1ffffb88        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
-                0x1ffffb8c                PROVIDE (__init_array_end, .)
+ .init_array    0x1ffffbd8        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x1ffffbdc                PROVIDE (__init_array_end, .)
 
-.fini_array     0x1ffffb8c        0x4
-                0x1ffffb8c                PROVIDE (__fini_array_start, .)
+.fini_array     0x1ffffbdc        0x4
+                0x1ffffbdc                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x1ffffb8c        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
-                0x1ffffb90                PROVIDE (__fini_array_end, .)
+ .fini_array    0x1ffffbdc        0x4 /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x1ffffbe0                PROVIDE (__fini_array_end, .)
 
 .data           0x20000000      0x2c8
                 0x20000000                . = ALIGN (0x4)
@@ -2692,7 +2691,7 @@ LOAD /home/aselsan/Desktop/IMX7/toolchain/gcc-arm-none-eabi-4_9-2015q3/bin/../li
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
 OUTPUT(str_echo_freertos.elf elf32-littlearm)
 
-.debug_info     0x00000000    0x22ef4
+.debug_info     0x00000000    0x230a1
  .debug_info    0x00000000      0xe27 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/hil/hil.c.obj
  .debug_info    0x00000e27       0xd0 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/llist/llist.c.obj
  .debug_info    0x00000ef7      0x41e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/shm/sh_mem.c.obj
@@ -2725,12 +2724,12 @@ OUTPUT(str_echo_freertos.elf elf32-littlearm)
  .debug_info    0x00015a7e      0x578 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/gpio_pins.c.obj
  .debug_info    0x00015ff6     0x1529 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/clock_freq.c.obj
  .debug_info    0x0001751f     0x1fe7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/pin_mux.c.obj
- .debug_info    0x00019506     0x2edc CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
- .debug_info    0x0001c3e2      0xb0e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
- .debug_info    0x0001cef0     0x18a1 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
- .debug_info    0x0001e791      0xb33 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
- .debug_info    0x0001f2c4     0x156c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
- .debug_info    0x00020830     0x26c4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+ .debug_info    0x00019506     0x3089 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
+ .debug_info    0x0001c58f      0xb0e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
+ .debug_info    0x0001d09d     0x18a1 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
+ .debug_info    0x0001e93e      0xb33 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+ .debug_info    0x0001f471     0x156c CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+ .debug_info    0x000209dd     0x26c4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
 
 .debug_abbrev   0x00000000     0x5138
  .debug_abbrev  0x00000000      0x25e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/hil/hil.c.obj
@@ -2923,7 +2922,7 @@ OUTPUT(str_echo_freertos.elf elf32-littlearm)
  .debug_ranges  0x00000c00       0x40 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
  .debug_ranges  0x00000c40       0x88 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
 
-.debug_line     0x00000000     0xc2b8
+.debug_line     0x00000000     0xc2c2
  .debug_line    0x00000000      0x4f6 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/hil/hil.c.obj
  .debug_line    0x000004f6       0xcb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/llist/llist.c.obj
  .debug_line    0x000005c1      0x1f5 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/shm/sh_mem.c.obj
@@ -2956,88 +2955,88 @@ OUTPUT(str_echo_freertos.elf elf32-littlearm)
  .debug_line    0x00008a0d      0x2eb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/gpio_pins.c.obj
  .debug_line    0x00008cf8      0x465 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/clock_freq.c.obj
  .debug_line    0x0000915d      0x3a2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/pin_mux.c.obj
- .debug_line    0x000094ff      0x573 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
- .debug_line    0x00009a72      0x6d3 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
- .debug_line    0x0000a145      0x47a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
- .debug_line    0x0000a5bf      0x5f5 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
- .debug_line    0x0000abb4      0x805 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
- .debug_line    0x0000b3b9      0xeff CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+ .debug_line    0x000094ff      0x57d CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
+ .debug_line    0x00009a7c      0x6d3 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
+ .debug_line    0x0000a14f      0x47a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
+ .debug_line    0x0000a5c9      0x5f5 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+ .debug_line    0x0000abbe      0x805 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+ .debug_line    0x0000b3c3      0xeff CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
 
-.debug_str      0x00000000     0xaab6
- .debug_str     0x00000000      0xc51 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/hil/hil.c.obj
-                                0xd97 (size before relaxing)
- .debug_str     0x00000c51       0x6a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/llist/llist.c.obj
-                                0x6b0 (size before relaxing)
- .debug_str     0x00000cbb      0x189 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/shm/sh_mem.c.obj
-                                0x8f3 (size before relaxing)
- .debug_str     0x00000e44      0x51e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
-                                0xd39 (size before relaxing)
- .debug_str     0x00001362      0xa92 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
-                               0x16c9 (size before relaxing)
- .debug_str     0x00001df4       0x81 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.c.obj
-                                0xba3 (size before relaxing)
- .debug_str     0x00001e75      0x437 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/remote_device.c.obj
-                               0x10b9 (size before relaxing)
- .debug_str     0x000022ac      0x154 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg.c.obj
-                                0xeb7 (size before relaxing)
- .debug_str     0x00002400      0x1d7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_core.c.obj
-                               0x1078 (size before relaxing)
- .debug_str     0x000025d7       0xd3 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_ext.c.obj
-                                0xd96 (size before relaxing)
- .debug_str     0x000026aa      0x1eb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
-                                0xf82 (size before relaxing)
- .debug_str     0x00002895      0x1fb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtqueue.c.obj
-                                0xcb6 (size before relaxing)
- .debug_str     0x00002a90      0x583 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.c.obj
-                                0xcbc (size before relaxing)
- .debug_str     0x00003013      0x231 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_analog_imx7d.c.obj
-                                0xbb1 (size before relaxing)
- .debug_str     0x00003244       0xa7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
-                                0x919 (size before relaxing)
- .debug_str     0x000032eb       0xec CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
-                                0x8ae (size before relaxing)
- .debug_str     0x000033d7      0x450 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
-                                0xb61 (size before relaxing)
- .debug_str     0x00003827      0x16f CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
-                                0x858 (size before relaxing)
- .debug_str     0x00003996      0x1f6 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpio_imx.c.obj
-                                0x8e6 (size before relaxing)
- .debug_str     0x00003b8c      0x63e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/utilities/src/debug_console_imx.c.obj
-                                0xefe (size before relaxing)
- .debug_str     0x000041ca      0x11e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
-                                0x84a (size before relaxing)
- .debug_str     0x000042e8      0x195 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/utilities/src/print_scan.c.obj
-                                0x912 (size before relaxing)
- .debug_str     0x0000447d      0x170 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/list.c.obj
-                                0x825 (size before relaxing)
- .debug_str     0x000045ed      0x2d4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
-                                0x991 (size before relaxing)
- .debug_str     0x000048c1      0x1a2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/portable/MemMang/heap_2.c.obj
-                                0x87a (size before relaxing)
- .debug_str     0x00004a63      0x42e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/queue.c.obj
-                                0xd64 (size before relaxing)
- .debug_str     0x00004e91      0x700 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/tasks.c.obj
-                               0x114e (size before relaxing)
- .debug_str     0x00005591     0x1344 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/board.c.obj
-                               0x1da7 (size before relaxing)
- .debug_str     0x000068d5      0x154 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/gpio_pins.c.obj
-                                0x9f4 (size before relaxing)
- .debug_str     0x00006a29      0x573 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/clock_freq.c.obj
-                               0x13ae (size before relaxing)
- .debug_str     0x00006f9c     0x2f20 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/pin_mux.c.obj
-                               0x3794 (size before relaxing)
- .debug_str     0x00009ebc       0xa2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
-                               0x4900 (size before relaxing)
- .debug_str     0x00009f5e       0xea CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
-                               0x115b (size before relaxing)
- .debug_str     0x0000a048      0x217 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
-                               0x2189 (size before relaxing)
- .debug_str     0x0000a25f      0x191 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
-                                0xb82 (size before relaxing)
- .debug_str     0x0000a3f0      0x3ae CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
-                                0xe7b (size before relaxing)
- .debug_str     0x0000a79e      0x318 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
-                               0x1695 (size before relaxing)
+.debug_str      0x00000000     0xaae7
+ .debug_str     0x00000000      0xc82 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/hil/hil.c.obj
+                                0xdc8 (size before relaxing)
+ .debug_str     0x00000c82       0x6a CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/llist/llist.c.obj
+                                0x6e1 (size before relaxing)
+ .debug_str     0x00000cec      0x189 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/shm/sh_mem.c.obj
+                                0x924 (size before relaxing)
+ .debug_str     0x00000e75      0x51e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj
+                                0xd6a (size before relaxing)
+ .debug_str     0x00001393      0xa92 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj
+                               0x16fa (size before relaxing)
+ .debug_str     0x00001e25       0x81 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.c.obj
+                                0xbd4 (size before relaxing)
+ .debug_str     0x00001ea6      0x437 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/remote_device.c.obj
+                               0x10ea (size before relaxing)
+ .debug_str     0x000022dd      0x154 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg.c.obj
+                                0xee8 (size before relaxing)
+ .debug_str     0x00002431      0x1d7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_core.c.obj
+                               0x10a9 (size before relaxing)
+ .debug_str     0x00002608       0xd3 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_ext.c.obj
+                                0xdc7 (size before relaxing)
+ .debug_str     0x000026db      0x1eb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj
+                                0xfb3 (size before relaxing)
+ .debug_str     0x000028c6      0x1fb CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/virtio/virtqueue.c.obj
+                                0xce7 (size before relaxing)
+ .debug_str     0x00002ac1      0x583 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.c.obj
+                                0xced (size before relaxing)
+ .debug_str     0x00003044      0x231 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_analog_imx7d.c.obj
+                                0xbe2 (size before relaxing)
+ .debug_str     0x00003275       0xa7 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/ccm_imx7d.c.obj
+                                0x94a (size before relaxing)
+ .debug_str     0x0000331c       0xec CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/mu_imx.c.obj
+                                0x8df (size before relaxing)
+ .debug_str     0x00003408      0x450 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/uart_imx.c.obj
+                                0xb92 (size before relaxing)
+ .debug_str     0x00003858      0x16f CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpt.c.obj
+                                0x889 (size before relaxing)
+ .debug_str     0x000039c7      0x1f6 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/gpio_imx.c.obj
+                                0x917 (size before relaxing)
+ .debug_str     0x00003bbd      0x63e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/utilities/src/debug_console_imx.c.obj
+                                0xf2f (size before relaxing)
+ .debug_str     0x000041fb      0x11e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/drivers/src/i2c_imx.c.obj
+                                0x87b (size before relaxing)
+ .debug_str     0x00004319      0x195 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/platform/utilities/src/print_scan.c.obj
+                                0x943 (size before relaxing)
+ .debug_str     0x000044ae      0x170 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/list.c.obj
+                                0x856 (size before relaxing)
+ .debug_str     0x0000461e      0x2d4 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+                                0x9c2 (size before relaxing)
+ .debug_str     0x000048f2      0x1a2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/portable/MemMang/heap_2.c.obj
+                                0x8ab (size before relaxing)
+ .debug_str     0x00004a94      0x42e CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/queue.c.obj
+                                0xd95 (size before relaxing)
+ .debug_str     0x00004ec2      0x700 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/rtos/FreeRTOS/Source/tasks.c.obj
+                               0x117f (size before relaxing)
+ .debug_str     0x000055c2     0x1344 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/board.c.obj
+                               0x1dd8 (size before relaxing)
+ .debug_str     0x00006906      0x154 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/gpio_pins.c.obj
+                                0xa25 (size before relaxing)
+ .debug_str     0x00006a5a      0x573 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/clock_freq.c.obj
+                               0x13df (size before relaxing)
+ .debug_str     0x00006fcd     0x2f20 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/pin_mux.c.obj
+                               0x37c5 (size before relaxing)
+ .debug_str     0x00009eed       0xa2 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/hardware_init.c.obj
+                               0x4b6e (size before relaxing)
+ .debug_str     0x00009f8f       0xea CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/str_echo_freertos.c.obj
+                               0x118c (size before relaxing)
+ .debug_str     0x0000a079      0x217 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/timer.c.obj
+                               0x21ba (size before relaxing)
+ .debug_str     0x0000a290      0x191 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/gpio.c.obj
+                                0xbb3 (size before relaxing)
+ .debug_str     0x0000a421      0x3ae CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/i2c.c.obj
+                                0xeac (size before relaxing)
+ .debug_str     0x0000a7cf      0x318 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/examples/imx7_colibri_m4/demo_apps/rpmsg/str_echo_freertos/comm_skb.c.obj
+                               0x16c6 (size before relaxing)
 
 .comment        0x00000000       0x70
  .comment       0x00000000       0x70 CMakeFiles/str_echo_freertos.dir/home/aselsan/Desktop/GPT_BACKUP/freertos-colibri-imx7/middleware/multicore/open-amp/common/hil/hil.c.obj

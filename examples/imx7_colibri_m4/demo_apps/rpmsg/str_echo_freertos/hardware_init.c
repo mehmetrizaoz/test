@@ -12,9 +12,6 @@ void hardware_init(void)
     BOARD_RdcInit();
     BOARD_ClockInit(); 
     
-    // CCM_ControlGate(CCM, ccmPllGateAudio, ccmClockNeededAll);
-    // CCM_ControlGate(CCM, ccmPllGatePfd2, ccmClockNeededRunWait);
-
     RDC_SetPdapAccess(RDC, BOARD_DEBUG_UART_RDC_PDAP, 0xFF, false, false);
     PRINTF("111\r\n");
     CCM_UpdateRoot(CCM, BOARD_DEBUG_UART_CCM_ROOT, ccmRootmuxUartOsc24m, 0, 0);
@@ -27,9 +24,13 @@ void hardware_init(void)
     //----------------------------------------------------------------------------------
     RDC_SetPdapAccess(RDC, BOARD_SAI2_RDC_PDAP, 0xFF, false, false);    
     PRINTF("222\r\n");
-    CCM_UpdateRoot(CCM, BOARD_SAI2_CCM_ROOT, ccmRootmuxUartOsc24m, 0, 0);
+    CCM_ControlGate(CCM, ccmPllGateAudioDiv1, ccmClockNeededRunWait);
+    CCM_UpdateRoot(CCM, BOARD_SAI2_CCM_ROOT, 2, 0, 0);
     CCM_EnableRoot(CCM, BOARD_SAI2_CCM_ROOT);    
     CCM_ControlGate(CCM, BOARD_SAI2_CCM_CCGR, ccmClockNeededAll);
+
+    // CCM_ControlGate(CCM, ccmPllGateAudio, ccmClockNeededAll);
+    // CCM_ControlGate(CCM, ccmPllGatePfd2, ccmClockNeededRunWait);
 
     IOMUXC_SW_MUX_CTL_PAD_SAI2_TX_BCLK = IOMUXC_SW_MUX_CTL_PAD_SAI2_TX_BCLK_MUX_MODE(0) |
                                             IOMUXC_SW_MUX_CTL_PAD_SAI2_TX_BCLK_SION_MASK;

@@ -85,7 +85,7 @@ void i2s_init(I2S_Type *base){
 
     base->TCR2 = 0;
     base->TCR2 |= I2S_TCR2_SYNC(0); //asynchronous mode
-    base->TCR2 |= I2S_TCR2_MSEL(0); //master clock 0-3
+    base->TCR2 |= I2S_TCR2_MSEL(3); //master clock 0-3
     base->TCR2 |= I2S_TCR2_BCD(1);  //bit clock is generated in master mode
     base->TCR2 |= I2S_TCR2_BCI(1);
     base->TCR2 |= I2S_TCR2_BCP(1);
